@@ -6,6 +6,7 @@
 
 ####欢迎关注我的其他专栏内容：
 系列文集：
+- [《春风小学堂字课》](http://www.jianshu.com/nb/19650121)
 - [《语文英语读写能力》](http://www.jianshu.com/nb/8869173)
 - [《语文同步说文解字》](http://www.jianshu.com/nb/6718880)
 - [《数理思维STEM》](http://www.jianshu.com/nb/10476879)
